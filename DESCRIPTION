@@ -22,3 +22,5 @@ Suggests:
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 Roxygen: list(markdown = TRUE)
+URL: https://github.com/ihababusaif/tnl
+BugReports: https://github.com/ihababusaif/tnl/issues
