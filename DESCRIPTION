@@ -1,0 +1,24 @@
+Package: tnl
+Type: Package
+Title: package_test 
+Version: 0.1.0
+Authors@R: c(
+     person(given="Ihab",
+           family="Abusaif", 
+           email = "censtat@gmail.com", 
+           role =c( "cre","aut")),
+     person("sumeyra", "sert", email = "winston@rstudio.com", role = "aut"))
+Description: Test package don't matter to it, we are test our package don't matter to it. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Imports: 
+    partitions
+Suggests: 
+    rmarkdown,
+    knitr,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
