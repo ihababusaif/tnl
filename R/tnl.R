@@ -45,9 +45,8 @@ tnl<-function(k,n,l){
     }
     prob[ss]<-count
   }
-
   prob<-prob/choose(2*n,n)
   tt<-sum(prob[1:k])
-  result<-list(prob=prob[k],tt=tt)
+  result<-list(prob=prob[k],tt=tt,Dataa=with(datas, `X1`)[1])
   return(result)
 }
