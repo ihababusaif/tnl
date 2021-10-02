@@ -24,3 +24,5 @@ Config/testthat/edition: 3
 Roxygen: list(markdown = TRUE)
 URL: https://github.com/ihababusaif/tnl
 BugReports: https://github.com/ihababusaif/tnl/issues
+Depends: 
+    R (>= 2.10)
