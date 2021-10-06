@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/ihababusaif/tnl/workflows/R-CMD-check/badge.svg)](https://github.com/ihababusaif/tnl/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/ihababusaif/tnl/branch/master/graph/badge.svg)](https://codecov.io/gh/ihababusaif/tnl?branch=master)
 <!-- badges: end -->
 
 The goal of tnl is to …
