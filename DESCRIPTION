@@ -1,6 +1,6 @@
 Package: tnl
 Type: Package
-Title: package_test 
+Title: Package Test 
 Version: 0.1.0
 Authors@R: c(
      person(given="Ihab",
